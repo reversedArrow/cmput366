@@ -1,0 +1,2 @@
+To generate graph for Q2, please alter Q2 in exp_hw6.py from False to True, and Q3 in exp_hw6.py from True to Flase.
+To generate graph for Q3, please alter Q2 in exp_hw6.py from True to False, and Q3 in exp_hw6.py from False to True.

@@ -1,0 +1,41 @@
+Comprehensive midterm exam covering chapters 2-7.
+
+Review the sample questions in the course folder.
+You may bring one double sided sheet of notes to the exam. You must hand-write your own notes. You cannot use another student's notes. No calculators, No phones, or No other electronic devices.
+
+Review A1-A4.
+
+
+The successful exam taker:
+
+Should know the meaning and interrelationships of rewards, returns, values, and policies
+Should know the three great solution methods, DP, MC, and TD, their essences and differences
+  and their major relative strengths and weaknesses
+  and their unification by n-step methods (Chap 7)
+Should know how to go back and forth between backup diagrams, algorithm names, and their equations
+Should know the 4 value functions and their:
+  definitions, 
+  Bellman Eqs, 
+  backup diagrams, 
+  DP methods for computing them
+  TD methods for learning them
+  MC methods for learning them
+Should be able to work an example MDP or MRP and compute values and optimal policies
+Should know what the environment dynamics function p(s’,r|s,a) is 
+Should know what a bandit problem is
+Should know what a finite MDP is
+Should know about GPI and how it leads to optimality
+  -- policy iteration, the dance of policy and value, pi and q_pi
+How to improve a policy from its value function
+How to evaluate a given policy
+How rewards express our objectives
+How to convert a verbal description to an MDP
+Should know the meaning of the step-size and discount-rate parameters
+Should know about the explore/exploit dilemma
+  e.g., in action selection (e.g., bandits)
+  how it lead to on-policy and off-policy strategies for learning solutions to MDPs
+Should know about bootstrapping
+  how it is powerful
+  how it is limited
+Should know how samples can be averaged incrementally
+
